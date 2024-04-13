@@ -1,0 +1,181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentsMangement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StudentsMangement.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\LICENSE.md",
+      "PackagePath": "staticwebassets\\chosen\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\chosen-sprite@2x.png",
+      "PackagePath": "staticwebassets\\chosen\\chosen-sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\chosen.css",
+      "PackagePath": "staticwebassets\\chosen\\chosen.css"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\chosen\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\chosen.min.css",
+      "PackagePath": "staticwebassets\\chosen\\chosen.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\chosen.proto.js",
+      "PackagePath": "staticwebassets\\chosen\\chosen.proto.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\chosen.proto.min.js",
+      "PackagePath": "staticwebassets\\chosen\\chosen.proto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\composer.json",
+      "PackagePath": "staticwebassets\\chosen\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\docsupport\\chosen.png",
+      "PackagePath": "staticwebassets\\chosen\\docsupport\\chosen.png"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\docsupport\\init.js",
+      "PackagePath": "staticwebassets\\chosen\\docsupport\\init.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\docsupport\\init.proto.js",
+      "PackagePath": "staticwebassets\\chosen\\docsupport\\init.proto.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\docsupport\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\chosen\\docsupport\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\docsupport\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\chosen\\docsupport\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\docsupport\\oss-credit.png",
+      "PackagePath": "staticwebassets\\chosen\\docsupport\\oss-credit.png"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\docsupport\\prism.css",
+      "PackagePath": "staticwebassets\\chosen\\docsupport\\prism.css"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\docsupport\\prism.js",
+      "PackagePath": "staticwebassets\\chosen\\docsupport\\prism.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\docsupport\\prototype-1.7.0.0.js",
+      "PackagePath": "staticwebassets\\chosen\\docsupport\\prototype-1.7.0.0.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\docsupport\\style.css",
+      "PackagePath": "staticwebassets\\chosen\\docsupport\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\index.html",
+      "PackagePath": "staticwebassets\\chosen\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\index.proto.html",
+      "PackagePath": "staticwebassets\\chosen\\index.proto.html"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\chosen\\options.html",
+      "PackagePath": "staticwebassets\\chosen\\options.html"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lezoson\\source\\repos\\Student-Management\\StudentsMangement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StudentsMangement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StudentsMangement.props",
+      "PackagePath": "build\\StudentsMangement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentsMangement.props",
+      "PackagePath": "buildMultiTargeting\\StudentsMangement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StudentsMangement.props",
+      "PackagePath": "buildTransitive\\StudentsMangement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
